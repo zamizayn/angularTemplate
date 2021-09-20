@@ -1,0 +1,28 @@
+#headerDiv{
+   background-color: #813588;
+   padding: 10px;
+}
+.logo{
+    height: 40px;
+    width: 180px;
+}
+.row>*{
+    width: fit-content!important;
+ 
+}
+.top{
+    padding-top: 10px;
+    font-size: medium;
+    margin-left: 50px;
+    font-weight: 200;
+    color: #ffc846;
+}
+
+.topwithoutMargin{
+    
+    padding-top: 10px;
+    font-size: medium;
+    font-weight: 200;
+    color: #ffc846;
+
+}
